@@ -64,24 +64,6 @@ project/
     └── index.html                # Seluruh UI, logika, dan pemanggilan API
 ```
 
----
-
-## 🔗 Daftar Endpoint API
-
-| Method | Endpoint | Akses | Keterangan |
-|---|---|---|---|
-| `POST` | `/api/login` | Publik | Login dan menerima token |
-| `GET` | `/api/buku` | Publik | Menampilkan seluruh data buku |
-| `GET` | `/api/buku/{id}` | Publik | Menampilkan detail satu buku |
-| `POST` | `/api/buku` | Admin | Menambah buku baru |
-| `PUT` | `/api/buku/{id}` | Admin | Mengubah data buku |
-| `DELETE` | `/api/buku/{id}` | Admin | Menghapus buku |
-| `GET` | `/api/peminjaman` | Login | Menampilkan seluruh data peminjaman |
-| `POST` | `/api/peminjaman` | Login | Membuat peminjaman baru (stok otomatis berkurang) |
-| `PUT` | `/api/peminjaman/{id}/kembali` | Login | Memproses pengembalian buku (stok otomatis bertambah) |
-
----
-
 ## ✨ Fitur Utama
 
 ### 👑 Admin
