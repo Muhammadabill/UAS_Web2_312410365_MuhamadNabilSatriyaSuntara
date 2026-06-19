@@ -110,24 +110,24 @@ project/
 ## 📌 Dokumentasi Visual & Pengujian
 
 
-1. Skema Relasi Database
+# 1. Skema Relasi Database
 <img width="1532" height="854" alt="image" src="https://github.com/user-attachments/assets/8c378038-4e8b-4e74-8b59-e01f6353c409" />
 
-2. Uji Coba Keamanan API
+# 2. Uji Coba Keamanan API
 <img width="1919" height="1079" alt="Screenshot 2026-06-15 102127" src="https://github.com/user-attachments/assets/930c1d46-f901-4cdd-9460-6f734f9c516a" />
 
-3. Uji Coba Buku
+# 3. Uji Coba Buku
 <img width="1916" height="1079" alt="Screenshot 2026-06-15 104321" src="https://github.com/user-attachments/assets/b8f5a471-2d7b-4277-b597-b3b0a8f33b6d" />
 
-4. Antarmuka Aplikasi (Frontend)
+# 4. Antarmuka Aplikasi (Frontend)
 Halaman Login:
 <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/078f0b6f-1480-4901-ae08-850ddf1eb7bd" />
 
-Dashboard Admin:
+# Dashboard Admin:
 <img width="1896" height="1005" alt="image" src="https://github.com/user-attachments/assets/513f1d01-0c5d-4699-b77e-09bb77531eb5" />
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/5faa25f1-3efc-4c1c-8ee4-5c6f6583442d" />
 <img width="1896" height="1008" alt="image" src="https://github.com/user-attachments/assets/bd9158c1-ed26-4edd-b7d7-45dd400fe9a9" />
 
-Dashboard Users:
+# Dashboard Users:
 <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/ad0af449-2ca6-41b1-b8c4-317d3047e4d3" />
 <img width="1897" height="1005" alt="image" src="https://github.com/user-attachments/assets/f524960b-bc73-48b0-8cb0-b3b45433b3bc" />
