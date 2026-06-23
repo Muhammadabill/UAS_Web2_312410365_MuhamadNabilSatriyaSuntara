@@ -139,4 +139,4 @@ Halaman Login:
   - Demo frontend di atas bersifat live preview untuk antarmuka pengguna.
   - Untuk fungsionalitas penuh (CRUD data), aplikasi menggunakan backend berbasis API yang berjalan di lingkungan lokal          (localhost).
   - Silakan saksikan video presentasi di bawah untuk melihat alur kerja lengkap (Frontend + Backend + Keamanan API).
-- Video Presentasi:
+- Video Presentasi:https://youtu.be/XouX84TxMBc
